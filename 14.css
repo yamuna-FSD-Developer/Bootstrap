@@ -1,0 +1,27 @@
+.main{
+    padding: 5px;
+        background-color:aqua;
+        height: 700px;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@400;500;700&family=Poppins:wght@300;400;600;700;800&display=swap');
+
+a{
+    text-decoration: underline;
+}
+
+.fa{
+    color: blue;
+}
+
+.box{
+    background-color: lightgray;
+    padding: 30px 60px;
+}
+
+.box-part{
+    background-color: whitesmoke;
+    margin: 15px 20px 25px 20px;
+    padding: 50px 10px;
+    text-align: center;
+}
